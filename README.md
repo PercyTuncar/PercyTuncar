@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PercyTuncar
+- 👀 I’m interested in develop web aplication
+- 🌱 I’m currently learning Javascrip
+- 💞️ I’m looking to collaborate on projects no-profit
+- 📫 How to reach me www.tuncardev.com
