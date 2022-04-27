@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @PercyTuncar
-- 👀 I’m interested in develop web aplication
-- 🌱 I’m currently learning Javascrip
-- 💞️ I’m looking to collaborate on projects no-profit
-- 📫 How to reach me www.tuncardev.com
+- 💡 Autodidacta, Publicista, Freelance – Blogger. 
+- 🤝 Apoyo a emprendedores y empresas a mejorar el diseño de su contenido para su sitio web.
+- 👩‍🎓 Ayudo a estudiantes con temas relacionados al desarrollo de aplicaciones.
+- 📱 Contáctame [WhatsApp](https://wa.me/51913642399) / Telegram  +51913642399 
+- **No olvides seguirme en: 💙[Twitter](https://twitter.com/percy_tuncar)  e 💖[Instagram](https://www.instagram.com/percy_tuncar/)**
+
+
