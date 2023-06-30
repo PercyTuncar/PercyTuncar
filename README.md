@@ -1,5 +1,3 @@
-- 💡 Autodidacta, Publicista, Freelance.
-- 🤝 Apoyo a emprendedores y empresas a mejorar su presencia en internet.
-- 👩‍🎓 Brindo asesoría a estudiantes sobre el desarrollo de aplicaciones.
+Programador especializado en React, Next.js, Firebase y MongoDB. Aplicaciones web headless con Gatsby y Netlify.
 -------------------------------------------------------
 
